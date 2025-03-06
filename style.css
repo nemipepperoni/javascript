@@ -6,3 +6,8 @@ body {
 img {
     width: 500px;
 }
+
+td {
+    width: 100px;
+    height: 40px;
+}
